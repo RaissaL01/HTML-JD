@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>curriculo</title>
+</head>
+<body>
+	<center>
+		<h1>Raissa Laura Lima Freitas<h1>
+ </center>
+     
+     <center>
+    <p>Brasileira, 22 anos
+    <p>Endereço: xxxxxxxxxxxx</p>
+    <p>Número: 985533022  |  Email: xxxxxxxxxxx</p>
+     </center>
+
+
+<h2>Objetivo:</h2>
+ <li>Aprender Html e Css.</li>
+
+ <h2>Formação:</h2>
+  <li>Ensino Médio (2015-2017): Escola Professora Adélia Brasil Feijó.</li>
+  <li>Graduação (Cursando): Ciência da Computação - IFCE.</li>
+
+<h2>Experiência:</h2>
+ <li>2015 - Escola Professora Adélia Brasil Feijó:</li>
+ <p>Tutora de Português 
+ Principais atividades: Ministrar aulas de reforço de português para alunos do ensino fundamental, corrigir exercícios, elaborar revisões, auxiliar professor em sala e etc.</p>
+
+  <li>2021 - Liq Corps S.A</li>
+  <p>Operadora de telemarketing ativo e receptivo
+ Principais atividades: Atendimento ao cliente no setor de vendas. Emissão e remarcação de reservas aéreas, vendas de bagagem, assentos, serviços etc.</p>
+
+<h2>Atividades Complementares:</h2>
+ <li>Java e Banco de dados - 2022: Juventude Digital.</li>
+
+ <li>HTML e CSS - 2022: Juventude Digital.</li> 
+
+ <p></p>
+ </body>
+ </html>
